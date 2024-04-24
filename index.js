@@ -9,7 +9,7 @@ const pool = new Pool({
     host: 'localhost',
     database: 'aulaback',
     password: 'ds564',
-    port: 7007,
+    port: 7007, 
 });
 
 const calculateAge = (date) => {
